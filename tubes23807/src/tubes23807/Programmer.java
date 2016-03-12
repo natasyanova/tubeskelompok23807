@@ -9,6 +9,6 @@ package tubes23807;
  *
  * @author USERNAME
  */
-public abstract class Orang {
-   
+public class Programmer {
+    
 }
